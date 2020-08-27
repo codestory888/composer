@@ -18,7 +18,6 @@
             "Ford\\Escape\\": "src/Ford/Escape",
             "Ford\\Fusion\\": "src/Ford/Fusion",
             "Ford\\Focus\\": "src/Ford/Focus",
-            "Ford\\Focus1\\": "src/Ford/Focus1",
             "Ford\\Fiesta\\": "src/Ford/Fiesta"
         }
     }

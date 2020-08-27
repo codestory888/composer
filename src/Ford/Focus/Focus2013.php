@@ -7,6 +7,6 @@ class Focus2013
 {
     public static function info()
     {
-        echo "This is Ford Focus2013!<br />";
+        echo "This is Ford Focus2020!<br />";
     }
 }
